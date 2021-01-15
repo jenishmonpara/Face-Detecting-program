@@ -1,6 +1,6 @@
 Please install the following python libraries which will be required to run the code:
 1. numpy
 2. cv2
-
+3. A video input device connected to channel 0 of your device (most devices's webcam are on already connected to video chanel 0 by default)
 
 Thanks
